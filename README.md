@@ -23,9 +23,9 @@ In our project we present the following:
 ```
 Crimes in Chicago from 2001 -2017 provided by City of Chicago and the
 Chicago Police Department
-
-kaggle.com/currie32/crimes-in-chicago
 ```
+
+http://kaggle.com/currie32/crimes-in-chicago
 
 ### Project Details
 Thorough detailed documentation can be found in the Document.pdf file. 
