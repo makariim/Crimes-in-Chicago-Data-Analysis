@@ -3,7 +3,7 @@
 #### 1. Problem Description
 
 
-Our project aims to answer the following questions to help law enforcement
+Our project aims to help law enforcement
 authorities to take necessary safety precautions and better utilize and
 distribute resources to mitigate crime and protect citizens.
 In our project we present the following:
